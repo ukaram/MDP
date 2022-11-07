@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quiz App by MIU</string>
+    <string name="_1_questions_list">Android development can only be done via Kotlin language</string>
+    <string name="_2_questions_list">Can we build android apps using Maven instead of Gradle</string>
+    <string name="true_answer">True</string>
+    <string name="false_answer">False</string>
+    <string name="i_am_not_sure">I am not sure</string>
+    <string name="btn_reset">reset</string>
+</resources>
